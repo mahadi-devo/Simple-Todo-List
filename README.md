@@ -2,4 +2,4 @@
 
 It's a responsive Todo List created by using HTML, CSS, javascript and jquery  
 
-See Live demo : https://mahadi-devo.github.io/Simple-Todo-List/
+See Live demo : https://mahadi-devo.github.io/Simple-Todo-List-App/
